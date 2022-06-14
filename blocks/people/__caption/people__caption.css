@@ -1,0 +1,10 @@
+.people__caption {
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 16px;
+    color: #ffcda7;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin: 0;
+    padding-bottom: 25px;
+}
