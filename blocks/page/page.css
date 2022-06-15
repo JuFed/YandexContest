@@ -5,4 +5,9 @@
     font-family: 'Inter', Arial, sans-serif;
     margin: 0 auto;
     text-rendering: optimizeLegibility;
+    transition: all .5s ease-in-out;
+}
+
+.page * {
+    transition: all .7s ease-in-out;
 }

@@ -6,3 +6,11 @@
     max-width: 360px;
     padding-bottom: 70px;
 }
+
+@media screen and (max-width: 568px) {
+    .people__title {
+        max-width: 300px;
+        font-size: 25px;
+        line-height: 40px;
+    }
+}

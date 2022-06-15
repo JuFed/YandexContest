@@ -2,3 +2,11 @@
     width: 330px;
     height: 330px;
 }
+
+@media screen and (max-width: 568px) {
+    .intro__image {
+        width: 320px;
+        height: 320px;
+        padding-bottom: 35px;
+    }
+}

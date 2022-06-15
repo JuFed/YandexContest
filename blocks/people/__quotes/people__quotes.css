@@ -5,3 +5,20 @@
     justify-content: space-between;
     margin: 0;
 }
+
+@media screen and (max-width: 984px) {
+    .people__quotes {
+        display: grid;
+        grid-template-columns: 240px 250px;
+        column-gap: 25px;
+        row-gap: 35px;
+    }
+}
+
+@media screen and (max-width: 568px) {
+    .people__quotes {
+        grid-template-columns: 290px;
+        max-width: 320px;
+        padding-left: 10px;
+    }
+}
