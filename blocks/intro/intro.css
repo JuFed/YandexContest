@@ -1,9 +1,9 @@
 .intro {
     display: flex;
-    max-width: 984px;
+    max-width: 1140px;
     margin: 0 auto;
-    padding-left: 48px;
-    padding-right: 48px;
+    padding-left: 70px;
+    padding-right: 70px;
     padding-bottom: 92px;
     justify-content: space-between;
 }

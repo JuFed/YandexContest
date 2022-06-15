@@ -1,0 +1,7 @@
+.place__text {
+  margin-left: 70px;
+  margin-top: 65px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
