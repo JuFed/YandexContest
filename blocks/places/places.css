@@ -1,16 +1,18 @@
 .places {
-  background-color: #f2f2f2;
-  width: 100%;
-  margin-bottom: 130px;
+    background-color: #f2f2f2;
+    width: 100%;
+    margin-bottom: 130px;
+    transition: all .7s ease-in-out;
 }
+
 @media screen and (max-width: 984px) {
-  .places {
-    margin-bottom: 80px;
-  }
+    .places {
+        margin-bottom: 80px;
+    }
 }
 
 @media screen and (max-width: 568px) {
-  .places {
-    margin-bottom: 64px;
-  }
+    .places {
+        margin-bottom: 64px;
+    }
 }

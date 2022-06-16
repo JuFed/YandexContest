@@ -1,9 +1,9 @@
 .place {
-  display: grid;
-  box-sizing: border-box;
-  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-  grid-template-rows: repeat(auto-fit, minmax(320px, 1fr));
-  column-gap: 0;
-  row-gap: 0;
+    display: grid;
+    box-sizing: border-box;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    grid-template-rows: repeat(auto-fit, minmax(320px, 1fr));
+    column-gap: 0;
+    row-gap: 0;
+    transition: all .7s ease-in-out;
 }
-

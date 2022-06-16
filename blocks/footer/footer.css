@@ -1,21 +1,23 @@
 .footer {
-  background-color: #ffcda7;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 620px;
-  margin-top: 130px;
+    background-color: #ffcda7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 620px;
+    margin-top: 130px;
+    transition: all .7s ease-in-out;
 }
 
 @media screen and (max-width: 984px) {
-  .footer {
-    margin-top: 80px;
-    height: 400px;
-  }
+    .footer {
+        margin-top: 80px;
+        height: 400px;
+    }
 }
+
 @media screen and (max-width: 568px) {
-  .footer {
-    margin-top: 64px;
-    height: 300px;
-  }
+    .footer {
+        margin-top: 64px;
+        height: 300px;
+    }
 }
