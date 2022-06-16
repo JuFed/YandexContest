@@ -6,3 +6,16 @@
   height: 620px;
   margin-top: 130px;
 }
+
+@media screen and (max-width: 984px) {
+  .footer {
+    margin-top: 80px;
+    height: 400px;
+  }
+}
+@media screen and (max-width: 568px) {
+  .footer {
+    margin-top: 64px;
+    height: 300px;
+  }
+}

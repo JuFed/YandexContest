@@ -5,3 +5,20 @@
   flex-direction: column;
   justify-content: space-between;
 }
+@media screen and (max-width: 984px) {
+  .place__text {
+   margin: 48px 48px 0;
+  }
+}
+
+@media screen and (max-width: 639px) {
+  .place__text {
+    order: -1;
+  }
+}
+
+@media screen and (max-width: 568px) {
+  .place__text {
+    margin: 20px 20px 0;
+  }
+}

@@ -3,9 +3,11 @@
   font-size: 14px;
   font-weight: 400;
   margin: 0;
-  padding-bottom: 30px;
   max-width: 400px;
 }
-.place__paragraph:last-of-type {
-  padding-bottom: 0;
+
+@media screen and (max-width: 984px) {
+  .place__paragraph {
+    font-size: 12px;
+  }
 }
