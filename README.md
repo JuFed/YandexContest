@@ -5,7 +5,7 @@
 * Технологии
 * Планы
 
-[ССЫЛКА НА ПРОЕКТ](https://jufed.github.io/russian-travel/index.html "КУДА Я ПОЕДУ")
+[ССЫЛКА НА ПРОЕКТ](https://jufed.github.io/YandexContest/index.html "КУДА Я ПОЕДУ")
 
 **Описание проекта**
 
